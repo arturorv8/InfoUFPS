@@ -1,5 +1,6 @@
 package org.infoufps.domain.academic;
 
+import org.infoufps.domain.calendar.Status;
 import org.infoufps.domain.shared.exceptions.DomainException;
 
 /**
